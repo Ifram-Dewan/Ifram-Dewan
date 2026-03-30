@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifram-dewan&label=Profile%20views&color=0e75b6&style=flat" alt="ifram-dewan" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Networking & IT**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Security & Vulnerabilities**
 
 - 👯 I’m looking to collaborate on **Competitive Programming**
 
-- 🤝 I’m looking for help with **C/C++, Development, Digital Marketing, Ui/Ux Design,**
+- 🤝 I’m looking for help with **C/C++, Security, Development, Digital Marketing, Ui/Ux Design,**
 
-- 💬 Ask me about **C/C++, Flutter, Development, Security**
+- 💬 Ask me about **C/C++, Security, Web Development, Networking**
 
 - 📫 How to reach me **md.iframdewan@gmail.com**
 
